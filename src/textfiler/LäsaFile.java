@@ -17,7 +17,7 @@ public class LäsaFile {
         ArrayList<String> list = new ArrayList<String>();
         while (s.hasNext()){
             list.add(s.next());
-}
+}//comment
         System.out.println(list);
         s.close();
         
